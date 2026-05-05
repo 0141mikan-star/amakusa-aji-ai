@@ -1,5 +1,7 @@
 # 🎣 上天草アジ予測AI ＆ 釣果SNS
 
+**[👉 アプリを実際に触ってみる (Streamlit Cloud)](https://amakusa-aji-ai-efioayzjpjk83ebgrwunkp.streamlit.app/)**
+
 気象データと機械学習を用いて上天草エリアのアジの釣果を予測し、現地のリアルタイムな釣果情報を共有できるハイブリッド型Webアプリケーションです。
 
 「いつ・どこで釣れるか」というアングラーの永遠の課題に対し、データサイエンスに基づく予測（AI）と、現場の一次情報（SNS）の両輪でアプローチし、釣行のUXを最大化することを目指しています。
@@ -35,4 +37,3 @@
 git clone [https://github.com/yourusername/amakusa-aji-ai.git](https://github.com/yourusername/amakusa-aji-ai.git)
 cd amakusa-aji-ai
 pip install -r requirements.txt
-
